@@ -7,13 +7,9 @@ project is to develop an automation system so that our organization is able to f
 
 ### Goals/Objectives
 
-Main objectives are:
-
-• Find suitable online grant opportunities
-
-• Create autofill scripts to fill in constant values
-
-• Make an user-friendly GUI with tracking information
+* Find suitable online grant opportunities
+* Create autofill scripts to fill in constant values
+* Make an user-friendly GUI with tracking information
 
 
 ### Procedures/Scope of Work
