@@ -25,3 +25,13 @@ User Interface or dashboard, where users can interact with our scripts and make 
 where need be.
      * If we are able to complete all the stages stated above, we can also incorporate
 application progress tracking, where our clients will be notified should updates arise.
+
+##  Libraries Used
+ * Pandas
+ * Beautiful Soup
+ * Selenium
+ * Requests
+ * Time
+ * TensorFlow
+ * math
+
