@@ -1,4 +1,4 @@
-# Grant Automation Project
+# <p align="center"> Grant Automated Web Scraper - DataReadyDFW </p>
 
 
 ### Overview
