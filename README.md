@@ -2,7 +2,7 @@
 
 
 ### Overview
-Researching grant prospects could be time-consuming and overwhelming. Our goal in this project is to develop an automation system so that our organization is able to find available grant opportunities and fill out applications with little or no human intervention. The mission of [DataReady DFW](https://www.datareadydfw.org/) is to empower through scalable and innovative data literacy resources.
+Researching grant prospects could be time-consuming and overwhelming. Our goal in this project is to develop an automation system so that our organization is able to find available grant opportunities and fill out applications with little or no human intervention. The mission of [DataReady DFW](https://www.linkedin.com/company/dataready-dfw/) is to empower through scalable and innovative data literacy resources.
 
 ### Goals/Objectives
 
